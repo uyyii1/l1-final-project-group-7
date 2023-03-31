@@ -5,7 +5,7 @@ import Sidebar2 from "@/components/SideBar2.vue";
 
 <template>
   <Sidebar2/>
-
+  
 <router-view/>
 </template>
 

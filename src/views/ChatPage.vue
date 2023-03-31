@@ -1,12 +1,12 @@
 <template>
-    <Chat/>
+    <NewChat/>
 </template>
 
 <script>
-    import Chat from "@/components/Chat.vue"
+    import NewChat from "@/components/NewChat.vue"
 
     export default {
         name: 'ChatPage',
-        components: Chat
+        components: NewChat
     }
 </script>
